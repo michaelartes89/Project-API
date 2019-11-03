@@ -20,7 +20,7 @@ A very high number of modern computer users rank having to create passwords as a
     
 ## Screenshot
 
- <img src="HW3screenshot.png" width="400px" alt="screenshot">
+ <img src="HW3screenshot.png" alt="screenshot">
 
  ## Link 
  
