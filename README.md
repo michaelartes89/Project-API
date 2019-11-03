@@ -5,11 +5,11 @@ For the project I created a "Random Password Generator" program, using Javascrip
 
 ## User Story
 
-As a student in the JHU Fullstack Bootcamp program, this project helped to expand my knowledge of Javascript. The project also provides an example of a practical application of the skills that student are currently building. 
+As a student in the JHU Fullstack Bootcamp program, this project helped to expand my knowledge of Javascript and its practical application in web development. Javascript allows webpages to go beyond only displaying content in various styles and layouts. Working with Javascript opens up the realm of user interativity on the web.
 
 I want to continue to expand knowledge and experience working with Javascript, CSS, and HTML.
 
-So that I can be equipped with the skills to become an expert web developer and contribute to innovative and exciting work in the field.
+So that I can become an expert web developer and contribute to innovative and exciting work in the field.
 
 ## Business Context
 
@@ -22,6 +22,11 @@ A very high number of modern computer users rank having to create passwords as a
 
  <img src="HW3screenshot.png" alt="screenshot">
 
+
+
  ## Link 
- 
+
+ <a href="https://michaelartes89.github.io/BootcampHW3/"> Clink Here for Link to Page </a>
+
+## ENJOY!  
 
